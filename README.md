@@ -9,7 +9,12 @@ Welcome to LabEx. This is the first stop of your adventure here, let me show the
 
 ## Scenarios
 
-|   Index | Name                    | Difficulty   | URL                                                                  |
+|   Index | Name                    | Difficulty   | Practice                                                             |
 |---------|-------------------------|--------------|----------------------------------------------------------------------|
 |       1 | 📖 Introduction to LabEx | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178589'>Start Lab</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Alibaba Cloud Free Tutorials](https://github.com/labex-labs/alibabacloud-free-tutorials)
 
