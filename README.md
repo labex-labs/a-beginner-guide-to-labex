@@ -1,6 +1,6 @@
 # A Beginner's Guide to LabEx
 
-![A Beginner's Guide to LabEx](https://cover-creator.labex.io/a-beginner-guide-to-labex.png)
+![A Beginner's Guide to LabEx](https://cover-creator.appbot.io/a-beginner-guide-to-labex.png)
 
 Welcome to LabEx. This is the first stop of your adventure here, let me show the basic features of LabEx, and teach you how to learn and practice in the LabEx environment. Prepare to be amazed!
 
