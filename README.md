@@ -15,7 +15,7 @@ Welcome to LabEx. This is the first stop of your adventure here, let me show the
 
 ## More
 
-- 🔗 [Alibaba Cloud Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Alibaba Cloud Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Alibaba Cloud Free Tutorials](https://github.com/labex-labs/alibabacloud-free-tutorials)
+- 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
 
