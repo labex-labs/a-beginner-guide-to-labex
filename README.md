@@ -1,9 +1,5 @@
 # A Beginner's Guide to LabEx
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 [![A Beginner's Guide to LabEx](https://cover-creator.appbot.io/a-beginner-guide-to-labex.png)](https://labex.io/courses/a-beginner-guide-to-labex)
 
 [![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/a-beginner-guide-to-labex)
